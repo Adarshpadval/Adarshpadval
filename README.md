@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Adarshpadval
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Adarshpadval! 👋
 
-<!---
-Adarshpadval/Adarshpadval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🌱 I’m currently learning Java
+- 👀 I’m interested in web development, software engineering, and open-source projects
+- 💞️ I’m looking to collaborate on web development projects and open-source contributions
+- 📫 How to reach me: [adarshpadval1@gmail.com/8308038159]
+
+## My Skills
+- **Languages:** PHP, JavaScript
+- **Frontend:** React, HTML, CSS, jQuery
+- **Backend:** MySQL
+- **CMS:** WordPress
+
+
+Feel free to reach out if you want to collaborate or just want to connect!
